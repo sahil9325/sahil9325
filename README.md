@@ -1,4 +1,4 @@
-# ⚡ Building RTL. Verifying Hardware. Exploring VLSI.
+# ⚡ Building Digital Hardware. Exploring VLSI.
 
 <h2 align="center">Hi 👋, I'm Sahil Jangra</h2>
 
@@ -7,99 +7,54 @@
 </p>
 
 <p align="center">
-  <code>Verilog</code> • <code>SystemVerilog</code> • <code>UVM</code> • <code>AMBA</code> • <code>RTL</code>
+  <code>Verilog</code> • <code>SystemVerilog</code> • <code>UVM</code> • <code>AMBA</code> • <code>Cadence Virtuoso</code>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Electronics & Communication Engineering student with a strong interest in **VLSI, RTL Design and Design Verification**.
+🎓 Electronics & Communication Engineering student with a strong interest in **VLSI, Digital Design, RTL Design and Design Verification**.
 
-🔧 I enjoy designing digital hardware using **Verilog/SystemVerilog** and building structured verification environments using **UVM**.
+🔧 I enjoy designing and understanding digital hardware using **Verilog and SystemVerilog**, while developing verification environments using **UVM**.
 
-🚌 Currently working with **AMBA protocols**, with hands-on work around **AHB and APB**.
+🚌 Interested in **AMBA protocols, digital design, functional verification and ASIC/FPGA development**.
 
-🧪 Interested in **constrained-random verification, SystemVerilog Assertions, functional coverage, scoreboards and verification methodology**.
+🔬 As part of my academic coursework, I have also worked with **Cadence Virtuoso** for schematic-based circuit simulation, including **DC, AC and transient analysis**.
 
-🎯 **Career Focus:** RTL Design • Design Verification • VLSI • ASIC / FPGA
+📚 Currently expanding my knowledge of **SystemVerilog, UVM, assertions, functional coverage and VLSI design methodologies**.
 
----
-
-## 🔥 What I'm Building
-
-### 🚌 AMBA AHB-to-APB Bridge — RTL + UVM
-
-A hands-on SystemVerilog project covering the design and verification of an **AMBA AHB-to-APB bridge**.
-
-**Design Focus**
-
-* FSM-based RTL architecture
-* AHB transaction handling
-* APB SETUP / ACCESS phases
-* Read and write transactions
-* Burst transaction support
-* Error handling
-
-**Verification Focus**
-
-* UVM testbench architecture
-* Driver / Monitor / Sequencer
-* Scoreboard and reference checking
-* Constrained-random stimulus
-* SystemVerilog Assertions
-* Functional coverage
-* Simulation and waveform-based debugging
-
-🔗 **[View AHB-to-APB-UVM Repository](https://github.com/sahil9325/AHB-TO-APB-UVM)**
-
----
-
-## 🧪 Verification Interests
-
-```text
-RTL Design
-     │
-     ▼
-SystemVerilog
-     │
-     ▼
-UVM Environment
-     │
-     ├── Driver
-     ├── Sequencer
-     ├── Monitor
-     ├── Scoreboard
-     └── Coverage
-     │
-     ▼
-Assertions + Constrained Random
-     │
-     ▼
-Functional Verification
-```
+🎯 **Career Focus:** RTL Design • Design Verification • VLSI • ASIC • FPGA
 
 ---
 
 ## 🛠️ Technical Toolkit
 
-### Hardware Description & Design
+### 💻 Digital Design & RTL
 
 `Verilog` `SystemVerilog` `RTL Design` `Digital Logic` `FSM Design`
 
-### Functional Verification
+### 🧪 Design Verification
 
-`UVM` `SystemVerilog Assertions` `Functional Coverage` `Constrained Random Verification` `Scoreboard`
+`UVM` `SystemVerilog Assertions (SVA)` `Functional Coverage`
 
-### Protocols
+`Constrained-Random Verification` `Scoreboard` `Testbench Architecture`
+
+### 🚌 Protocols
 
 `AMBA` `AHB` `APB`
 
-### EDA & Development Tools
+### 🔬 Analog / IC Design
 
-`QuestaSim` `Vivado` `Git` `GitHub`
+`Cadence Virtuoso` `Schematic Design` `Analog Simulation`
 
-### Programming
+`DC Analysis` `AC Analysis` `Transient Analysis`
+
+### 🖥️ EDA & Development Tools
+
+`Cadence Virtuoso` `QuestaSim` `Vivado` `Git` `GitHub`
+
+### 💻 Programming
 
 `C` `C++` `Python`
 
@@ -107,22 +62,61 @@ Functional Verification
 
 ## 🚀 Featured Projects
 
-| Project                                                                                              | Technologies               | Focus              |
-| ---------------------------------------------------------------------------------------------------- | -------------------------- | ------------------ |
-| [AHB-to-APB-UVM](https://github.com/sahil9325/AHB-TO-APB-UVM)                                        | SystemVerilog • UVM • AMBA | RTL + Verification |
-| [Smart Assistive Navigation System](https://github.com/sahil9325/Smart-Assistive-Navigation-System-) | Arduino • C++ • ESP32-CAM  | Embedded Hardware  |
+I use GitHub to document my hands-on work across **digital design, verification, embedded systems and VLSI**.
+
+### 🚌 AMBA AHB-to-APB Bridge
+
+**SystemVerilog • UVM • AMBA • RTL • Verification**
+
+RTL design and UVM-based verification of an AMBA AHB-to-APB bridge.
+
+🔗 [View Repository](https://github.com/sahil9325/AHB-TO-APB-UVM)
+
+---
+
+### 👓 Smart Assistive Navigation System
+
+**Arduino • C++ • ESP32-CAM • Ultrasonic Sensors**
+
+An embedded assistive system for real-time obstacle detection and navigation using ultrasonic sensors and microcontroller-based hardware.
+
+🔗 [View Repository](https://github.com/sahil9325/Smart-Assistive-Navigation-System-)
 
 ---
 
 ## 📚 Currently Learning
 
 * Advanced SystemVerilog
-* UVM methodology and reusable verification environments
+* UVM methodology
 * SystemVerilog Assertions
-* Functional coverage and coverage-driven verification
+* Functional & code coverage
+* Constrained-random verification
 * AMBA protocols
-* RTL design practices
-* ASIC Design & Verification flow
+* RTL design methodologies
+* ASIC Design & Verification
+* Digital IC design
+* VLSI design flow
+
+---
+
+## 🔬 VLSI Interests
+
+```text
+Digital Design
+      │
+      ├── RTL Design
+      ├── SystemVerilog
+      ├── Design Verification
+      └── UVM
+             │
+             ▼
+        AMBA Protocols
+             │
+             ▼
+      ASIC / FPGA Development
+```
+
+Alongside digital design, I am building foundational knowledge in **analog IC design and circuit simulation** using Cadence Virtuoso.
 
 ---
 
@@ -132,16 +126,18 @@ I'm preparing for opportunities in:
 
 **RTL Design • Design Verification • VLSI • ASIC Verification • FPGA Design**
 
+I'm particularly interested in working on **digital hardware, RTL development, functional verification, SystemVerilog/UVM and semiconductor design flows**.
+
 ---
 
 ## 🤝 Let's Connect
 
-💼 **LinkedIn:** [Sahil Jangra](https://www.linkedin.com/in/sahil-jangra-147a5528b)
-
-📧 **Email:** Add your professional email here
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-jangra-147a5528b">
+    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Jangra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
-  <i>Design with intent. Verify with discipline. Learn continuously.</i>
+  <i>Design. Verify. Learn. Build.</i>
 </p>
